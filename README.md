@@ -1,10 +1,11 @@
 # EEYearGame Website
 A developing gaming website for 2026 EE Week
 
-## Run the project:
-1. Clone the [database](https://github.com/NTUEEInfoDep/EEYearGame_Backend) and spin it up.
+## Run this project:
+1. Clone this project
+2. Clone the [database](https://github.com/NTUEEInfoDep/EEYearGame_Backend) and spin it up.
 
-2. Spin up backend:
+3. Spin up backend in this project:
     ```bash
     # In ./server
     node index.js
